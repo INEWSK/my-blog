@@ -1,0 +1,17 @@
+logo_title: INEWSK
+
+style: black
+
+favicon: /favicon.png
+
+menu:
+  文章: /archives
+  菊苣錄: /links
+  關於: /about
+  Github: https://github.com/INEWSK
+
+valine:
+  enable: true
+
+highlight:
+  enable: false

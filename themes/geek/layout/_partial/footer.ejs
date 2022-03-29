@@ -1,0 +1,58 @@
+<div class="footer" id="footer">
+    <p>Copyright <i class="fa fa-copyright" aria-hidden="true"></i> 2020 <br> Powered by <a class="flink"
+            href="https://hexo.io">Hexo</a>
+        <i class="fa fa-heart throb" style="color:#d43f57"></i> Theme by
+        <a class="flink" href="https://github.com/sanjinhub/hexo-theme-geek">Geek</a>.
+        <label class="el-switch el-switch-green el-switch-sm" style="vertical-align: sub;">
+            <input type="checkbox" name="switch" id="update_style">
+            <span class="el-switch-style"></span>
+        </label>
+        <br />
+        <span id="timeDate">加載天數...</span><span id="times">加載時分秒... </span>
+        <span class="shake">(≧&#8711;≦)&#65417;&#9829;</span><br />
+    </p>
+</div>
+<input type="hidden" id="web_style" value="<%= theme.style %>">
+<script src='//cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js'></script>
+<%- js('libs/jquery.min.js') %>
+<%- js('libs/highlight/highlight.pack.js') %>
+
+<%- js('js/js.js') %>
+<style type="text/css">
+    .v[data-class=v] p {
+        color: inherit;
+    }
+
+    .v[data-class="v"] a {
+        color: #699be9;
+    }
+
+    .v[data-class=v] .vempty {
+        color: inherit;
+    }
+
+    .v[data-class="v"] .vcard .vh .vsys {
+        /* background-color: #eaeaea; */
+    }
+
+    .v[data-class="v"] .vcards .vcard .vquote {
+        border-left: 0;
+    }
+
+    .v[data-class="v"] .vcards .vcard .vh {
+        border-bottom: 0;
+    }
+
+    .v[data-class="v"] .vcards .vcard .vh .vmeta .vat {
+        color: inherit;
+    }
+
+    .v[data-class="v"] .vcards .vcard .vimg {
+        transform: rotate(0);
+        transition: all 1s ease;
+    }
+
+    .v[data-class="v"] .vcards .vcard .vimg:hover {
+        transform: rotate(360deg);
+    }
+</style>
