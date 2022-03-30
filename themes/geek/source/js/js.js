@@ -242,6 +242,33 @@ if (typeof pub_date != "undefined") {
   });
 })(navigator.userAgent || navigator.vendor || window.opera);
 
+// fancybox
+$(function () {
+  $(".posts img")
+    .not("[hidden]")
+    .each(function () {
+      var $image = $(this);
+      var alt = $image.attr("title");
+      var src = $image.attr("src");
+      $imageWrapLink = $image.wrap('<a href="' + src + '"></a>').parent("a");
+
+      $imageWrapLink.attr("data-fancybox", "images");
+      if (alt) {
+        $imageWrapLink.attr("data-caption", alt);
+      }
+    });
+
+  $().fancybox({
+    selector: '[data-fancybox="images"]',
+    thumbs: false,
+    hash: true,
+    loop: false,
+    fullScreen: false,
+    slideShow: false,
+    protect: true,
+  });
+});
+
 setInterval("blogRuntime()", 250);
 
 if (window.console && window.console.log) {
