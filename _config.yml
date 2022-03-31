@@ -6,12 +6,7 @@
 title: 囧囧丸
 subtitle: ""
 description: ""
-keywords:
-  - inewsk
-  - blog
-  - 博客
-  - inewsk.me
-  - www.inewsk.me
+keywords: [inewsk, inewsk.me, www.inewsk.me, blog, 博客, 囧囧丸]
 author: YK
 language: zh-TW
 timezone: Asia/Shanghai
@@ -38,6 +33,7 @@ skip_render:
   - README.md #跳過指定文件渲染
   - fonts
   - zpix.woff
+  - live2d-widget
 
 # Writing
 new_post_name: :title.md # File name of new posts

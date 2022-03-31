@@ -223,7 +223,7 @@ if (typeof pub_date != "undefined") {
   var $btn = $(".back-to-top-btn");
 
   $(document).scroll(function () {
-    if ($(this).scrollTop() < 200) {
+    if ($(this).scrollTop() < 300) {
       $btn.fadeOut();
     } else {
       $btn.fadeIn();

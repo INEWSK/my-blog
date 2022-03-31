@@ -5,3 +5,4 @@ db.json
 node_modules/
 public/
 .deploy*/
+themes/geek/source/live2d-widget

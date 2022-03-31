@@ -14,8 +14,16 @@
 </div>
 <a href="#" class="back-to-top"><i class="fa fa-arrow-up back-to-top-btn" aria-hidden="true"></i></a>
 <input type="hidden" id="web_style" value="<%= theme.style %>">
-<script src='https://cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js'></script>
+<%- js('https://cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js') %>
 <%- js('libs/jquery.min.js') %>
 <%- js('libs/highlight/highlight.pack.js') %>
 <%- js('libs/fancybox/jquery.fancybox.min.js') %>
 <%- js('js/js.js') %>
+<!-- OpenCC -->
+<%- js('https://cdn.jsdelivr.net/npm/opencc-js@1.0.3/data.min.js') %>
+<%- js('https://cdn.jsdelivr.net/npm/opencc-js@1.0.3/data.cn2t.min.js') %>
+<%- js('https://cdn.jsdelivr.net/npm/opencc-js@1.0.3/bundle-browser.min.js') %>
+<!-- Live2D Widget -->
+<%  if (theme.live2d_widget.enable ) { %>
+<%- js('https://cdn.jsdelivr.net/gh/INEWSK/live2d-widget@latest/autoload.js') %>
+<% } %>
