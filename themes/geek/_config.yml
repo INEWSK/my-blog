@@ -5,7 +5,7 @@ style: black
 favicon: /favicon.png
 
 menu:
-  文章: /archives
+  存檔: /archives
   菊苣錄: /links
   關於: /about
   Github: https://github.com/INEWSK
@@ -15,6 +15,3 @@ valine:
 
 highlight:
   enable: false
-
-live2d_widget:
-  enable: true

@@ -7,7 +7,7 @@ title: 囧囧丸
 subtitle: ""
 description: ""
 keywords: [inewsk, inewsk.me, www.inewsk.me, blog, 博客, 囧囧丸]
-author: YK
+author: YKK
 language: zh-TW
 timezone: Asia/Shanghai
 
@@ -22,18 +22,15 @@ pretty_urls:
   trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
-source_dir: source #存放內容
-public_dir: public #生成的站點內容
-tag_dir: tags #標籤文件夾
-archive_dir: archives #存檔
-category_dir: categories #分類
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang #國際化
+i18n_dir: :lang
 skip_render:
-  - README.md #跳過指定文件渲染
-  - fonts
-  - zpix.woff
-  - live2d-widget
+  - README.md
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -43,14 +40,14 @@ external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ""
-filename_case: 0 #1小寫, 2大寫
+filename_case: 0
 render_drafts: false
 post_asset_folder: true # enable asset file
 relative_link: false
 future: true
 highlight:
-  enable: true # hexo 自帶高亮
-  line_number: false
+  enable: true
+  line_number: true
   auto_detect: false
   tab_replace: ""
   wrap: true
@@ -105,17 +102,13 @@ pagination_dir: page
 theme: geek
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/INEWSK/inewsk.github.io
-  branch: main
+  type: ""
 
 # auto generator sitemap
 sitemap:
   path: sitemap.xml
-baidusitemap:
-  path: baidusitemap.xml
 
 # https://github.com/hexojs/hexo-renderer-marked
 marked:
@@ -185,3 +178,8 @@ aplayer:
   style_cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css
   meting: true
   meting_cdn: https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
+
+lazy_load:
+  enable: true
+  fallback: false
+  width_height: true
