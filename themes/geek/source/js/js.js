@@ -1,9 +1,11 @@
 var web_style = $("#web_style").val();
+var valine_appId = $("#valine_appid").val();
+var valine_appKey = $("#valine_appKey").val();
 
 new Valine({
   el: "#vcomments", // Valine 初始化掛載器
-  appId: "vMDW05AHkvrzuuVo7Pgjri0P-MdYXbMMI",
-  appKey: "fzfb2UU4VBfXr3bH0h2CeUTf",
+  appId: valine_appId,
+  appKey: valine_appKey,
   placeholder: "ヾﾉ≧∀≦)o 嗨！有什麼想說嗎？",
   avatar: "mp", //https://valine.js.org/avatar.html
   lang: "zh-TW",
@@ -255,7 +257,6 @@ $(function () {
       var alt = $image.attr("title");
       var src = $image.attr("src");
       $imageWrapLink = $image.wrap('<a href="' + src + '"></a>').parent("a");
-
       $imageWrapLink.attr("data-fancybox", "images");
       if (alt) {
         $imageWrapLink.attr("data-caption", alt);
@@ -270,6 +271,18 @@ $(function () {
     fullScreen: false,
     slideShow: false,
     protect: true,
+  });
+});
+
+// 圖片懶加載
+$(async function () {
+  $(".posts img").each(function () {
+    var $image = $(this);
+    var src = $image.attr("src");
+    var sizes = "auto";
+
+    $image.addClass("lazyload");
+    $image.attr({ "data-src": src, "data-sizes": sizes }).removeAttr("src");
   });
 });
 

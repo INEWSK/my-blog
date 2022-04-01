@@ -12,6 +12,8 @@ menu:
 
 valine:
   enable: true
+  appId: vMDW05AHkvrzuuVo7Pgjri0P-MdYXbMMI
+  appKey: fzfb2UU4VBfXr3bH0h2CeUTf
 
 highlight:
   enable: false
