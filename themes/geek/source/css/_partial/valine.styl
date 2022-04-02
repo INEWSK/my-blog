@@ -4,15 +4,35 @@
     
     .vempty
         color inherit !important
-    
+
+    .vedit // no effect in the textarea property
+        &::before
+            content ''
+            top 0
+            left 0
+            right 0
+            bottom 0
+            opacity 0.3
+            display block
+            position absolute
+            background top right / 10em no-repeat
+            background-image url("../img/textarea-bg.webp")
+            z-index -1
+        textarea
+            resize none
+            
     .vcards
         .vcard
             .vquote
                 border-left 0 !important
             .vh
                 border-bottom 0 !important
-            .vimg
-                transform rotate(0)
-                transition all 0.6s ease
-                &:hover
-                    transform rotate(15deg)
+            // .vimg
+            //     transform rotate(0)
+            //     transition transform 0.6s ease
+            //     &:hover
+            //         transform rotate(10deg)
+
+@media screen and (max-width: 768px)
+    .vedit::before
+        background-image none !important
