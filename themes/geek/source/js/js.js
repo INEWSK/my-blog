@@ -290,7 +290,7 @@ setInterval("blogRuntime()", 250);
 
 if (window.console && window.console.log) {
   console.log(
-    "\n %c Web %c  https://inewsk.me Last Update: 04-01-2022 \n",
+    "\n %c Web %c  https://inewsk.me Last Update: 04-04-2022 \n",
     "margin: 1em 0; padding: 5px 10px; background: #6d9ee7; color: #fff",
     "margin: 1em 0; padding: 5px 0px; background: #3d3d3d;"
   );

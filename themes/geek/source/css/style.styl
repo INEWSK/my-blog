@@ -14,10 +14,10 @@ body
         left 0
         right 0
         bottom 0
-        opacity 0.03
+        opacity 0.05
         display block
         position fixed
-        background center/cover no-repeat
+        background bottom 15% right 10% /auto 30em no-repeat
         background-image url("../img/bg.webp")
         z-index -1
 
@@ -537,6 +537,7 @@ label.el-checkbox
 @media screen and (max-width: 768px)
     body
         &::before
+            background center/cover no-repeat
             background-image url("../img/mini-bg.webp")
 
     .hd
