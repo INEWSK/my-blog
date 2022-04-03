@@ -4,7 +4,7 @@ date: 2021-05-16 04:00:30
 ---
 
 <center>
-{% aplayer "花火" "Tielle" "https://drive.google.com/uc?export=download&id=1rGEAzlSYblP3O_kxdqpgmbCYQUQxVKmh" "https://i.imgur.com/AHlTUyR.jpg" "width: 80%" %}
+{% aplayer "花火" "Tielle" "https://drive.google.com/uc?export=download&id=1rGEAzlSYblP3O_kxdqpgmbCYQUQxVKmh" "https://i.imgur.com/AHlTUyR.jpg" %}
 </center>
 
 ### 關於 | About

@@ -174,7 +174,7 @@ js_concator:
   silent: false
 
 aplayer:
-  cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js
+  # cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js
   style_cdn: https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css
   meting: true
-  meting_cdn: https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
+  # meting_cdn: https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js

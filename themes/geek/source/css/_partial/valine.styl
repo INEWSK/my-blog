@@ -6,6 +6,8 @@
         color inherit !important
 
     .vedit // no effect in the textarea property
+        textarea
+            resize none
         &::before
             content ''
             top 0
@@ -18,9 +20,10 @@
             background top right / 10em no-repeat
             background-image url("../img/bg.webp")
             z-index -1
-        textarea
-            resize none
-            
+        // &:hover
+        //     &::before
+        //         background-image none !important
+
     .vcards
         .vcard
             .vquote

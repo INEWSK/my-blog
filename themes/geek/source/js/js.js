@@ -134,13 +134,13 @@ function updateStyle() {
     $("#footer").attr("style", "color: #51525d;");
     $(".flink").attr("style", "color: #51525d;");
     $(".ba").attr("style", "color: #51525d;");
-    $("#bodyx").attr("class", "bg_white");
+    $("#bodyx").attr("data-theme", "light");
     $("#update_style").attr("checked", false);
   } else {
     $("#footer").attr("style", "");
     $(".flink").attr("style", "");
     $(".ba").attr("style", "");
-    $("#bodyx").attr("class", "bg_black");
+    $("#bodyx").attr("data-theme", "dark");
     $("#update_style").attr("checked", true);
   }
 }
