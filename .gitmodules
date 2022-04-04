@@ -1,3 +1,3 @@
 [submodule "themes/geek"]
 	path = themes/geek
-	url = git@github.com:INEWSK/hexo-theme-geek.git
+	url = https://github.com/INEWSK/hexo-theme-geek.git
