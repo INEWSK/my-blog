@@ -159,7 +159,7 @@ js_minifier:
     - "*.min.js"
 # for image
 image_minifier:
-  enable: true
+  enable: false
   interlaced: false
   multipass: false
   optimizationLevel: 2

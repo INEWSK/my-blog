@@ -3,6 +3,8 @@ title: (´ﾟдﾟ｀)
 date: 2021-05-16 04:00:30
 ---
 
+### 音樂 | Music
+
 <center>
 {% aplayer "花火" "Tielle" "https://drive.google.com/uc?export=download&id=1rGEAzlSYblP3O_kxdqpgmbCYQUQxVKmh" "https://i.imgur.com/AHlTUyR.jpg" %}
 </center>
@@ -35,3 +37,9 @@ date: 2021-05-16 04:00:30
 - **Libraries, and Tools**: <code>Git</code> <code>Node.js</code>
 - **Database**: <code>MySQL</code> <code>MongoDB</code>
 - **Language**: <code>Java</code> <code>Dart</code> <code>JavaScript</code> <code>HTML/CSS</code>
+
+### 找到我 | Social
+
+- Twitter: [airlues](https://twitter.com/airlues)
+- Instagram: inewsk
+- Telegram: [@inewsk](https://t.me/inewsk)
