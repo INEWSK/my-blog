@@ -7,19 +7,20 @@ title: 囧囧丸
 subtitle: ""
 description: ""
 keywords: [inewsk, inewsk.me, www.inewsk.me, blog, 博客, 囧囧丸]
-author: YKK
+author: YK
 language: zh-TW
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://inewsk.me #https://inewsk.github.io
+root: /
 permalink: post/:title/
 permalink_defaults:
   lang: en
 pretty_urls:
-  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: false # Set to false to remove trailing '.html' from permalinks
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
