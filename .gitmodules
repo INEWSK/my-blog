@@ -1,3 +1,6 @@
 [submodule "themes/geek"]
 	path = themes/geek
 	url = https://github.com/INEWSK/hexo-theme-geek.git
+[submodule "image"]
+	path = image
+	url = https://github.com/INEWSK/blog-img.git
