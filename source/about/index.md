@@ -6,7 +6,7 @@ date: 2021-05-16 04:00:30
 ### 音樂 | Music
 
 <center>
-{% aplayer "小喋日和" "FantasticYouth" "https://drive.google.com/uc?export=download&id=1b6C94-OnrAlVKLnnO9s1_8fZcBzxDkcL" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/koshaberi_biyori.jpg" %}
+{% aplayer "Circle of Karma" "FUZI × MAAS" "http://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=ANQPJQXwhwntbHs" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp" %}
 </center>
 
 ### 關於 | About
@@ -14,20 +14,20 @@ date: 2021-05-16 04:00:30
 - 姓名：YKK
 - 暱稱：YK
 - 性別：網絡
-- 語言：廣東話(母語)，普通話， 英語
+- 語言：廣東話(母語)，普通話，英語，日本語下手です
 - 活動範圍: Hong Kong
-- CV: [關於現實的我](https://cv.inewsk.me)
+- CV: [關於現實中的我](https://cv.inewsk.me)
 
 ### 簡述 | Brief
 
-- 九八年生，生於廣東, 現居香港
-- 一四年接觸程序開發, 沒有工作經驗
+- 九八年生，生於廣東，現居香港
+- 一四年接觸程序開發，沒有工作經驗，會寫一些代碼
+- 尊尚 「大道至簡」 理念，可以簡單完成的事情不用複雜方法
 - 安靜, 喜歡小雨天
-- 會寫一些代碼, 簡單至上主義
-- 期望移居霓虹
+- 想移居 11 區
 - 日麻愛好者
-- 想養隻貓
 - 死魚眼
+- 貓
 
 > 實踐是檢驗真理的唯一道路
 
