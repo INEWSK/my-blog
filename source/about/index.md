@@ -6,7 +6,7 @@ date: 2021-05-16 04:00:30
 ### 音樂 | Music
 
 <center>
-{% aplayer "Circle of Karma" "FUZI × MAAS" "http://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=ANQPJQXwhwntbHs" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp" %}
+{% aplayer "Circle of Karma" "FUZI × MAAS" "https://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=ANQPJQXwhwntbHs" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp" %}
 </center>
 
 ### 關於 | About
