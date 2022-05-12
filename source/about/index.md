@@ -6,7 +6,7 @@ date: 2021-05-16 04:00:30
 ### 音樂 | Music
 
 <center>
-{% aplayer "Circle of Karma" "FUZI × MAAS" "https://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=ANQPJQXwhwntbHs" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp" %}
+{% aplayer "色彩 Shikisai" "りりあ Riria" "https://storage.live.com/items/9F00811F8B2BE46E!8174?authkey=AAbzgStXEMtEvMI" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/uta.webp" %}
 </center>
 
 ### 關於 | About
@@ -23,7 +23,7 @@ date: 2021-05-16 04:00:30
 - 九八年生，生於廣東，現居香港
 - 一四年接觸程序開發，沒有工作經驗，會寫一些代碼
 - 尊尚 「大道至簡」 理念，可以簡單完成的事情不用複雜方法
-- 安靜, 喜歡小雨天
+- 安靜, 喜歡小雨天，討厭潮溼
 - 想移居 11 區
 - 日麻愛好者
 - 死魚眼
@@ -33,7 +33,7 @@ date: 2021-05-16 04:00:30
 
 ### 學習 | Learning
 
-- **Web Frameworks**: <code>Express</code>
+- **Web Frameworks**: <code>Express</code> <code>React.js</code>
 - **Other Frameworks**: <code>Flutter</code>
 - **Libraries, and Tools**: <code>Git</code> <code>Node.js</code>
 - **Database**: <code>MySQL</code> <code>MongoDB</code>
