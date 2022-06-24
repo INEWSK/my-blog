@@ -3,11 +3,11 @@ title: About me
 date: 2021-05-16 04:00:30
 ---
 
-> 更新於 2022 年 04 月 04 日
+> 更新於 2022 年 06 月 24 日
 
 ### 音樂 | Music
 
-<center>
+<div>
 {% aplayerlist %}
 {
     "narrow": false,
@@ -24,23 +24,45 @@ date: 2021-05-16 04:00:30
             "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/uta.webp"
         },
         {
-            "title": "神様の渦",
-            "author": "nicamoq",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8191?authkey=AGLMRTwQGzS7zQw",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/nicamoq.webp"
-        },
-        {
             "title": "Circle of Karma",
             "author": "FUZI × MAAS",
             "url": "http://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=AA2uhXZnUMhqpAY",
             "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp"
+        },
+        {
+            "title": "ヨダカ",
+            "author": "月詠み",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8196?authkey=ABPnxZn4fC9vwmY",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/yodaka.webp"
+        },
+        {
+            "title": "どうして",
+            "author": "高瀬統也",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8195?authkey=APNrU46ey3f8iw0",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/doushite.webp"
+        },
+        {
+            "title": "Runaway",
+            "author": "DEAN FUJIOKA",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8194?authkey=AMSnBJk_n-JxDbM",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/DEAN-FUJIOKA.webp"
+        },
+        {
+            "title": "Sleepless Night",
+            "author": "yama",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8193",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/sleepless-night.webp"
+        },
+        {
+            "title": "花火",
+            "author": "Tielle",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8192?authkey=AGI5mDqnvu_wsTs",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/hanabi.webp"
         }
     ]
-
 }
 {% endaplayerlist %}
-
-</center>
+</div>
 
 ### 關於 | About
 
