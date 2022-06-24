@@ -8,7 +8,38 @@ date: 2021-05-16 04:00:30
 ### 音樂 | Music
 
 <center>
-{% aplayer "色彩 Shikisai" "りりあ Riria" "https://storage.live.com/items/9F00811F8B2BE46E!8174?authkey=AAbzgStXEMtEvMI" "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/uta.webp" %}
+{% aplayerlist %}
+{
+    "narrow": false,
+    "autoplay": false,
+    "mode": "random",
+    "mutex": true,
+    "theme": "#4b5e7b",
+    "preload": "auto",
+    "music": [
+        {
+            "title": "色彩 Shikisai",
+            "author": "りりあ Riria",
+            "url": "https://storage.live.com/items/9F00811F8B2BE46E!8174?authkey=AAbzgStXEMtEvMI",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/uta.webp"
+        },
+        {
+            "title": "神様の渦",
+            "author": "nicamoq",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8191?authkey=AGLMRTwQGzS7zQw",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/nicamoq.webp"
+        },
+        {
+            "title": "Circle of Karma",
+            "author": "FUZI × MAAS",
+            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=AA2uhXZnUMhqpAY",
+            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp"
+        }
+    ]
+
+}
+{% endaplayerlist %}
+
 </center>
 
 ### 關於 | About
