@@ -3,7 +3,7 @@ title: About me
 date: 2021-05-16 04:00:30
 ---
 
-> 更新於 2022 年 06 月 24 日
+> 更新於 2023 年 05 月 07 日
 
 ### 音樂 | Music
 
@@ -22,36 +22,6 @@ date: 2021-05-16 04:00:30
             "author": "りりあ Riria",
             "url": "https://storage.live.com/items/9F00811F8B2BE46E!8174?authkey=AAbzgStXEMtEvMI",
             "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/uta.webp"
-        },
-        {
-            "title": "Circle of Karma",
-            "author": "FUZI × MAAS",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8137?authkey=AA2uhXZnUMhqpAY",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/circle_of_karma.webp"
-        },
-        {
-            "title": "ヨダカ",
-            "author": "月詠み",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8196?authkey=ABPnxZn4fC9vwmY",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/yodaka.webp"
-        },
-        {
-            "title": "どうして",
-            "author": "高瀬統也",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8195?authkey=APNrU46ey3f8iw0",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/doushite.webp"
-        },
-        {
-            "title": "Runaway",
-            "author": "DEAN FUJIOKA",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8194?authkey=AMSnBJk_n-JxDbM",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/DEAN-FUJIOKA.webp"
-        },
-        {
-            "title": "Sleepless Night",
-            "author": "yama",
-            "url": "http://storage.live.com/items/9F00811F8B2BE46E!8193",
-            "pic": "https://cdn.jsdelivr.net/gh/INEWSK/blog-img@master/about/sleepless-night.webp"
         },
         {
             "title": "花火",
@@ -92,7 +62,7 @@ date: 2021-05-16 04:00:30
 - **Web Frameworks**: <code>React.js</code>
 - **Other Frameworks**: <code>Flutter</code>
 - **Libraries, and Tools**: <code>Git</code> <code>Node.js</code>
-- **Database**: <code>MySQL</code> <code>MongoDB</code>
+- **Database**: <code>MySQL</code>
 - **Language**: <code>Java</code> <code>JavaScript</code> <code>HTML/CSS</code>
 
 ### 找到我 | Social
