@@ -3,7 +3,7 @@ title: About me
 date: 2021-05-16 04:00:30
 ---
 
-> 更新於 2023 年 05 月 07 日
+> 更新於 2023 年 09 月 17 日
 
 ### 音樂 | Music
 
@@ -41,13 +41,13 @@ date: 2021-05-16 04:00:30
 - 性別：網絡
 - 語言：廣東話(母語)，普通話，英語，日本語下手です
 - 活動範圍: Hong Kong
-- CV: [關於現實中的我](https://cv.inewsk.me)
+- [關於現實中的我](https://im.inewsk.me)
 
 ### 簡述 | Brief
 
 - 九八年產，生於廣東，現居香港
 - 一〇年接觸程序開發，沒有工作經驗
-- 會寫一些代碼，主要為前端，還有安卓
+- 會寫一些代碼，主要為前端
 - 尊尚 「大道至簡」 理念，可以簡單完成的事情不用複雜方法
 - 安靜, 喜歡小雨天，討厭潮溼
 - 想移居 11 區
@@ -59,15 +59,15 @@ date: 2021-05-16 04:00:30
 
 ### 學習 | Learning
 
-- **Web Frameworks**: <code>React.js</code>
+- **Web Frameworks**: <code>React</code> <code>Next.js</code>
 - **Other Frameworks**: <code>Flutter</code>
-- **Libraries, and Tools**: <code>Git</code> <code>Node.js</code>
+- **Libraries, and Tools**: <code>Git</code> <code>Node.js</code> <code>Tensorflow</code>
 - **Database**: <code>MySQL</code>
-- **Language**: <code>Java</code> <code>JavaScript</code> <code>HTML/CSS</code>
+- **Language**: <code>Java</code> <code>JavaScript ES6</code> <code>HTML/CSS</code>
 
 ### 找到我 | Social
 
 - Twitter: [airlues](https://twitter.com/airlues)（碎碎唸）
-- Instagram: inewsk（日常生活記錄）
+- Instagram: airlues（日常生活記錄）
 - Telegram: [@inewsk](https://t.me/inewsk)
 - Email: i[at]inewsk.me

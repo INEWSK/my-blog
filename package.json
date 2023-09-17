@@ -10,7 +10,7 @@
     "update-theme": "git submodule update --remote"
   },
   "hexo": {
-    "version": "5.4.1"
+    "version": "5.4.2"
   },
   "dependencies": {
     "hexo": "^5.0.0",
